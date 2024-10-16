@@ -63,12 +63,11 @@ if __name__ == "__main__":
     
 
     raw_data = messages.strip()
-"""
+
 # Extract, clean, and append all content to a single list
 final_list = extract_and_clean_inner_lists(raw_data)
-
+Voicetext=final_list[2]
 # Print the final list
-print("Vocal Text", final_list[2])
+print("Vocal Text", Voicetext)
 Eleven_lab_APIKEY=input('Enter Your Elevenlab APIKEY:\n')
-text_to_speech(Eleven_lab_APIKEY,final_list[2],"./"+profile_id+"/"+profile_id+".mp3")
-""" 
+text_to_speech(Eleven_lab_APIKEY,Voicetext,"./"+profile_id+"/"+profile_id+".mp3")
