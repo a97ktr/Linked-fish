@@ -68,10 +68,5 @@ def text_to_speech(api_key, text, output_path):
     else:
         print(f"Failed to generate speech: {response.status_code} - {response.text}")
 
-# Example usage:
-# api_key = "sk_7df9c0f55c6ed46a16b2efd26a0a25ebba76c721e3559f70"
-# text = "hello world"
-# voice_id = "29vD33N1CtxCmqQRPOHJ"
-# output_path = "output2.mp3"
-# text_to_speech(api_key, text, voice_id, output_path)
+
 
