@@ -1,0 +1,10 @@
+{
+    "Name": "Ahmed Katrou",
+    "Headline": "Cyber Security Engineer | CTF Enthusiast",
+    "Additional Info": "N/A",
+    "About": "You can never cross the ocean until you have the courage to lose sight of the shore.\n \u2013Christopher Columbus",
+    "Activity": "Ahmed Katrou reposted this \u2022 12h\n12h\n\ud83d\udea8 SHARE SOMEONE NEED IT \ud83d\udea8 \u2b55How does SIEM works \ud83d\udd17 Credit; Cyber Edition\n\ud83d\udea8 SHARE SOMEONE NEED IT \ud83d\udea8 \n\u2b55How does SIEM works\n\ud83d\udd17 Credit; Cyber Edition \n322\n6 comments\nAhmed Katrou reposted this \u2022 2w\n2w\nCyber Security News \u00ae NIST Recommends New Rules for Password Security Source: https://lnkd.in/dErSBv-t\nCyber Security News \u00ae NIST Recommends New Rules for Password Security\nSource: https://lnkd.in/dErSBv-t\n1,879\n64 comments\nAhmed Katrou reposted this \u2022 2w\n2w\nYet another stark reminder that innovation without security can lead to serious vulnerabilities !\nYet another stark reminder that innovation without security can lead to serious vulnerabilities !",
+    "Experience": "Information Security Officer\nTunisian Air Force (TAF) \u00b7 Full-time\nJun 2024 - Present \u00b7 5 mos\nJun 2024 to Present \u00b7 5 mos\nGab\u00e8s, Tunisia \u00b7 On-site\nThe Ministry of National Defense of Tunisia\nFull-time \u00b7 3 yrs 1 mo\nCyber Security Analyst\nJan 2023 - Jun 2024 \u00b7 1 yr 6 mos\nJan 2023 to Jun 2024 \u00b7 1 yr 6 mos\nTunisia\nManagement, Cyber Threat Intelligence (CTI) and +9 skills\nIT Security Specialist\nJun 2021 - Dec 2022 \u00b7 1 yr 7 mos\nJun 2021 to Dec 2022 \u00b7 1 yr 7 mos\nTunisie \u00b7 On-site\nIT Operations, Vulnerability Management and +2 skills",
+    "Certifications": "Applied ChatGPT for Cybersecurity\nInfosec\nIssued Mar 2024\nCredential ID S4LEAVX3VG6J\nShow credential\nIBM Cybersecurity Analyst Specialization\nIBM\nCredential ID YSQ2YM5C64ZB",
+    "Contact Info": "linkedin.com/in/ahmed-katrou"
+}
