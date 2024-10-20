@@ -70,7 +70,8 @@ Linked-Fish/
 ├── main.py       # Main script  
 ├── banner.py            # Banner & UI elements  
 ├── generators.py        # generate phishing messages
-├── extractors.py        # Extract target's data  
+├── extractors.py        # Extract target's data
+├── selenium_utils.py    # Extraction functions  
 ├── helper.py            # Utility functions  
 ├── voice.py             # Text-to-speech logic  
 ├── requirements.txt     # Python dependencies  
